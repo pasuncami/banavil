@@ -102,12 +102,12 @@ Typography
 ------------------------------------------------------------------- */
 
 a {
-	color: rgba(17, 17, 17, 0.55);
+	color: #F46036;
 }
 
 a:hover, a:focus {
 	text-decoration: none;
-	color: #111;
+	color: #659157;
 	outline: 0;
 }
 
